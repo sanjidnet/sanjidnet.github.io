@@ -1,36 +1,28 @@
 ---
-title: Customize the Favicon
-author: cotes
+title: "Customize the Favicon"
 date: 2019-08-11 00:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]
+toc: false
 ---
 
-The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+The image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons`. You may need to replace them with your own. So let's see how to customize these Favicons.
 
-## Generate the favicon
+Whit a square image (PNG, JPG or GIF) in hand, open the site [*Favicon & App Icon Generator*](https://www.favicon-generator.org/) and upload your original image.
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
+![upload-image]({{ site.baseurl }}/assets/img/sample/upload-image.png)
 
-In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button <kbd>Generate your Favicons and HTML code</kbd> to generate the favicon.
+Wait a moment for the website to generate icons of various sizes automatically.
 
-## Download & Replace
+![download-icons]({{ site.baseurl }}/assets/img/sample/download-icons.png)
 
-Download the generated package, unzip and delete the following two from the extracted files:
+Download the generated package and extract to override the files in directory `assets/img/favicons`.
 
-- `browserconfig.xml`{: .filepath}
-- `site.webmanifest`{: .filepath}
+At last, rebuild the site so that the icon becomes your custom edition.
 
-And then copy the remaining image files (`.PNG`{: .filepath} and `.ICO`{: .filepath}) to cover the original files in the directory `assets/img/favicons/`{: .filepath} of your Jekyll site. If your Jekyll site doesn't have this directory yet, just create one.
+## See Also
 
-The following table will help you understand the changes to the favicon files:
+* [Getting Started]({{ site.baseurl }}/posts/getting-started/)
+* [Write a new post]({{ site.baseurl }}/posts/write-a-new-post/)
+* [Text and Typography]({{ site.baseurl }}/posts/text-and-typography/)
 
-| File(s)             | From Online Tool                  | From Chirpy |
-|---------------------|:---------------------------------:|:-----------:|
-| `*.PNG`             | ✓                                 | ✗           |
-| `*.ICO`             | ✓                                 | ✗           |
-
->  ✓ means keep, ✗ means delete.
-{: .prompt-info }
-
-The next time you build the site, the favicon will be replaced with a customized edition.
