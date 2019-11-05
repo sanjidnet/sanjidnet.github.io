@@ -4,17 +4,7 @@
 
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
-  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
-
-  [**Live Demo →**][demo]
-
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
-
-</div>
+A Jekyll theme with responsive web design that focuses on text presentation. Hope you like it! [Live Demo »](https://chirpy.cotes.info)
 
 ## Features
 
@@ -41,13 +31,17 @@
 - Google Analytics
 - SEO & Performance Optimization
 
-</details>
+Complete the installation of the following environment dependencies:
 
-## Documentation
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+- [RubyGem](https://rubygems.org/pages/download)
+- [Bundler](https://bundler.io/)
+- [Jekyll](https://jekyllrb.com/)
+- [Python](https://www.python.org/downloads/) 
+- [ruamel.yaml](https://pypi.org/project/ruamel.yaml/)
+- [fswatch](http://emcrisostomo.github.io/fswatch/getting.html)
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
-
-## Contributing
+Next, [**fork**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) this project and rename as `<username>.github.io`, then clone the replicated repository locally. Go to the root directory and install the Jekyll plugins:
 
 Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
 to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -62,7 +56,9 @@ The avatar and favicon design from [Clipart Max][image].
 Many thanks to the [contributors][contributors] who participated in the development
 and to the folks who reported bugs or shared ideas.
 
-Last but not least, thanks to [JetBrains][jetbrains] for providing the _Open Source License_.
+## Documentation
+
+For more details, please check the [tutorial](https://chirpy.cotes.info/posts/getting-started/). BTW, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
 ## Sponsoring
 
