@@ -2,7 +2,7 @@
 
   # Chirpy Jekyll Theme
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+![devices-mockup](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/assets/img/sample/devices-mockup.png)
 
 A Jekyll theme with responsive web design that focuses on text presentation. Hope you like it! [Live Demo »](https://chirpy.cotes.info)
 
@@ -12,53 +12,132 @@ A Jekyll theme with responsive web design that focuses on text presentation. Hop
   <summary>Click to expand/close details</summary>
   &nbsp;
 
-- Dark / Light Theme Mode
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark / Light Mode Images
-- Embed Videos
-- Disqus / Giscus / Utterances Comments
-- Built-in Search
-- Atom Feeds
-- PWA
-- Google Analytics
-- SEO & Performance Optimization
+## Getting Startted
 
-Complete the installation of the following environment dependencies:
+### Preparation
 
-- [Ruby](https://www.ruby-lang.org/en/downloads/)
-- [RubyGem](https://rubygems.org/pages/download)
-- [Bundler](https://bundler.io/)
-- [Jekyll](https://jekyllrb.com/)
-- [Python](https://www.python.org/downloads/) 
-- [ruamel.yaml](https://pypi.org/project/ruamel.yaml/)
-- [fswatch](http://emcrisostomo.github.io/fswatch/getting.html)
+Follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installtion of basic environment (Ruby, RubyGem, Bundler and Jekyll). In addition, to use the funny script tools, we also need to install [Python](https://www.python.org/downloads/)(version 3.5 or abover), [ruamel.yaml](https://pypi.org/project/ruamel.yaml/) and [fswatch](http://emcrisostomo.github.io/fswatch/getting.html).
 
-Next, [**fork**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) this project and rename as `<username>.github.io`, then clone the replicated repository locally. Go to the root directory and install the Jekyll plugins:
+Next, [fork Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/fork) and then clone the replicated repository locally.
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
 
-## Credits
+### Install Jekyll plugins
 
-This project was built primarily with the [Jekyll][jekyllrb] ecosystem,
-[Bootstrap][bootstrap], [Font Awesome][icons], and some other [wonderful tools][lib].
-The avatar and favicon design from [Clipart Max][image].
+Go to root directory of the repository and run the following:
 
-Many thanks to the [contributors][contributors] who participated in the development
-and to the folks who reported bugs or shared ideas.
+```terminal
+$ bundle install
+```
+
+`bundle` will install all the dependent Jekyll Plugins listed in file `Gemfile` automatically.
+
+
+### File structure
+
+The main files and related brief introductions are listed below.
+
+```sh
+jekyll-theme-chirpy/
+├── _data
+├── _includes      
+├── _layouts
+├── _posts          # posts stay here
+├── _scripts
+├── assets      
+├── tabs
+│   └── about.md    # the ABOUT page
+├── .gitignore
+├── .travis.yml     # remove it
+├── 404.html
+├── Gemfile
+├── LICENSE
+├── README.md
+├── _config.yml     # configuration file
+├── build.sh        # script tool
+├── run.sh          # script tool
+├── init.sh         # script tool
+├── pv.sh           
+├── feed.xml
+├── index.html
+├── robots.txt
+├── search.json
+└── sitemap.xml
+```
+
+
+### Configuration
+
+Customize the variables in file `_config.yml` as needed.
+
+
+### Atom Feed
+
+The Atom feed url of your site will be:
+
+```
+<SITE_URL>/feed.xml
+```
+
+The `SITE_URL` was defined by variable `url` in file `_config.yml`.
+
+
+###  Run locally
+
+You may want to preview the site before publishing, so just run the script tool:
+
+```terminal
+$ bash run.sh
+```
+>**Note**: Because the *Recent Update* required the latest git-log date of posts, so make sure the changes of `_posts` have been committed before running this command.
+
+Open a brower and visit <http://127.0.0.1:4000>
+
+###  Deploying to GitHub Pages
+
+Before the deployment begins, ensure the `url` in `_config.yml` has been set to `https://<username>.github.io`.
+
+#### Option 1: Built by GitHub Pages
+
+By deploying your site in this way, you can push the source code to GitHub repository directly.
+
+> **Note**: If you want to add any third-party Jekyll plugins or custom scripts to your project, please refer to [*Option 2: Build locally*](#option-2-build-locally).
+
+**1**. Rename your repository as `<username>.github.io`.
+
+**2**. Commit the changes of your repository, then run the initialization script:
+
+```console
+$ bash init.sh
+```
+
+It will automatically generates the *Latest Modified Date* and *Categories / Tags* page for the posts.
+
+**3**. Push the changes to `origin/master` then go to GitHub website and enable GitHub Pages service for the repository `<username>.github.io`.
+
+**4**. Visit `https://<username>.github.io` and enjoy.
+
+
+#### Option 2: Build locally
+
+For security reasons, GitHub Pages runs on `safe` mode, which means the third-party Jekyll plugins or custom scripts will not work. If you want to use any another third-party Jekyll plugins, **your have to build locally rather than on GitHub Pages**.
+
+**1**. On GitHub website, create a brand new repository with name `<username>.github.io` and then clone it locally.
+
+**2**. Build your site by:
+
+```console
+$ bash build.sh -d /path/to/<username>.github.io/
+```
+
+The build results will be stored in the root directory of `<username>.github.io` and don't forget to push the changes of `<username>.github.io` to branch `master` on GitHub.
+
+**3**. Go to GitHub website and enable GitHub Pages service for the new repository `<username>.github.io`.
+
+**4**. Visit `https://<username>.github.io` and enjoy.
 
 ## Documentation
 
-For more details, please check the [tutorial](https://chirpy.cotes.info/posts/getting-started/). BTW, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+For more information, please see the [tutorial](https://chirpy.cotes.info/categories/tutorial/). In the meanwhile, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
 ## Sponsoring
 
