@@ -4,13 +4,22 @@
 
 ![devices-mockup](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/assets/img/sample/devices-mockup.png)
 
-A minimal, portfolio, sidebar, Bootstrap Jekyll theme with responsive web design and focuses on text presentation. Hope you like it! [Live Demo »](https://chirpy.cotes.info)
+A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation. Hope you like it! [Live Demo »](https://chirpy.cotes.info)
 
 ## Features
 
-<details>
-  <summary>Click to expand/close details</summary>
-  &nbsp;
+* Posts' Last Modified Date
+* Table of Contents
+* Disqus Comments
+* Syntax highlighting
+* Two Level Categories
+* Search
+* HTML Compress
+* Atom Feeds
+* Google Analytics
+* GA Pageviews (Advanced)
+* SEO Tag
+* Performance Optimization
 
 ## Getting Started
 
