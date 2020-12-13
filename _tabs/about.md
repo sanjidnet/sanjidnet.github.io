@@ -11,4 +11,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+I enjoy programming, sports and music. This blog is an attempt to capture my skills, experience and/or rudimentary concepts as I keep learning about them...  
