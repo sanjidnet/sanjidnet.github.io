@@ -1,6 +1,6 @@
 ---
 title: 10 Crack Commandments
-date: 2021-04-20 3:18:03 +1200
+date: 2020-08-20 3:18:03 +1200
 tags: [lifestyle, lessons]
 ---
 
