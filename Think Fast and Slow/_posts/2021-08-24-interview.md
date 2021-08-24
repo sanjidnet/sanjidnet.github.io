@@ -64,7 +64,7 @@ Going into an interview with a blank slate will provide you with a sense of unfo
 
 ## Interviewers assumes you are well versed in your skills until they find out you are not
 		
-Once the CV screening is done, you are already past the stage where you establish the value of your skills. You are in this interview because the organisation feels the skills you mention in the CV might be useful for the role they are hiring for. 
+Once the CV screening is done, you are already past the stage where you establish the value of your skills. Now you are in the interview to communicate how proficient you are at those skills. So it is important for an interviewer to probe more into aspects about yourself that may be too good to be true. Remember, they are not coming at you from a position of mistrust or wanting to catch you on inconsistencies. Although, if you do not handle this situation well, that ends up being the case. If handled well however, they will go to bat for you. 
 
 ## A question may be a larva question
 
