@@ -2,9 +2,17 @@
 title: How to prepare for a tech interview
 date: 2021-08-24 3:18:03 +1200
 tags: [work, lessons]
+published: false
 ---
 
-This is it! You have crossed the CV screening!
+This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. I have divided this article into 4 broad aspects:
+
+1. Make Sure - things you should aim to achive during the interview
+2. Don't Assume - things you might consider as given but are actually not
+3. Clarify - things you should actively seek to learn about before and during
+4. Bear in mind - things that are generally understood you ought to know about 
+
+_DISCLAIMER: I am not a recruiter or an employer. Never been. ._
 
 # Make Sure 
 
@@ -12,17 +20,17 @@ This is it! You have crossed the CV screening!
 
 EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. And if necessary, clarify
 
-## To go in depth technology / skills - to demonstrate understanding of it 
+## To go deep into your skills when it comes to it
 
 In depth might mean technical knowledge in a technical interview, intuitive knowledge in a behavioral question. This will depend on the background / expertise of the interviewrs in the room (read below for more about how to address multiple interviewers). This is especially important in a [conversational style interview](https://www.randstad.ca/employers/workplace-insights/talent-management/conversational-interviewing-the-best-way-to-conduct-job-interviews/) where it is easy to lose sight of the significance of demonstrating your expertise. 
 
-## You hear yourself speak
+## You hear yourself speak and check your own body language
 
 Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said'. 
 
 ## Both interviewers are happy
 
-In a technical interview there is usually more than 1.
+In a technical interview there is usually more than 1. A useful heuristic is to 
 
 # Don't Assume 
 
@@ -36,13 +44,15 @@ Let's be honest here! Have you looked at anybody's CV for more than a couple min
 
 ## Questions will be related to the context that YOU have set up 
 
-You may have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you have also catered it to the requirements of the role in question in your initial response. 
+You may have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. 
 		
 ## The interview is about them answering your questions 
 		
 Of course, you want to learn more about the organisation. Curiosity about the organisation is one of the best ways to signal you are genuinely interested in the role. However, 
 	
 # Clarify 
+
+Going into an interview with a blank slate will provide you with a sense of unfounded confidence. Coming out of the interview with the same blank slate
 		
 ## How long the interview is going to be
 
