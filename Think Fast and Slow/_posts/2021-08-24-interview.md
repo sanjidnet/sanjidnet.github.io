@@ -4,13 +4,16 @@ date: 2021-08-24 3:18:03 +1200
 tags: [work, lessons]
 ---
 
+This is it! You have crossed the CV screening!
+
 	## Make Sure 
 
 		### to pay full attention to each question. 
 
-EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. And if necessary, [clarify](#clarify)
+EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. And if necessary, clarify
 
 		### to go in depth technology / skills - to demonstrate understanding of it 
+In depth might mean technical knowledge in a technical interview, or 
 
 		### you hear yourself speak
 Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said'. 
