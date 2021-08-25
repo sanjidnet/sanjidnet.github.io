@@ -5,7 +5,11 @@ tags: [work, lessons]
 published: false
 ---
 
-This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. I have divided this article into 4 broad aspects:
+This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they should pick you instead of them.
+
+Over the years, I have discovered there a few things one can do to address this. Part of this material is from interviews that aced and other parts are from interviews that I failed miserably. But most of it is from interviews from which I came out absolutely convinced that the job is mine for the taking only to learn a week later that will never be the case. If you are in the 3rd boat or have been for a long time, I believe you will find some value in reading the rest of the article. 
+
+I have divided this article into 4 broad aspects:
 
 1. Make Sure - things you should aim to achive during the interview
 2. Don't Assume - things you might consider as given but are actually not
@@ -36,15 +40,15 @@ In a technical interview there is usually more than 1. A useful heuristic is to
 
 ## You already know the role 
 
-This is not to say you should not talk about what value you can bring to the role, especially when asked. But it's important to not assume. The organisation has its own tech stack, policies, visions as well as limitations. the vision of the role or what you can bring to the role. The interviewer(s) are trying to find out if you are fit for the role. 
+This is not to say you should not talk about what value you can bring to the role, especially when asked. But not before you actually learn what it is you can bring. The organisation has its own tech stack, policies, visions as well as limitations. the vision of the role or what you can bring to the role. The interviewer(s) are trying to find out if you are fit for the role. 
 
 ## They have figured out your CV 
 
 Let's be honest here! Have you looked at anybody's CV for more than a couple minutes other than your own? If you are color-coding or leaving similar clues in your CV, 
 
-## Questions will be related to the context that YOU have set up 
+## Every question has the same context
 
-You may have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. 
+Consider a situation where you have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. It's good to avoid [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) onto it for every other question. Do not assume that the context from the previous questions (even the ones you have set up yourself) will carry forward. It opens up a more wholesome way of thinking about each question. This is because each question is more than likely to have their own premise and context. 
 		
 ## The interview is about them answering your questions 
 		
