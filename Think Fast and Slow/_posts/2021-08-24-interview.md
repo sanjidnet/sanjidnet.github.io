@@ -7,7 +7,7 @@ published: false
 
 This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they should pick you instead of them.
 
-Over the years, I have discovered there a few things one can do to address this. Part of this material is from interviews that aced and other parts are from interviews that I failed miserably. But most of it is from interviews from which I came out absolutely convinced that the job is mine for the taking only to learn a week later that will never be the case. If you are in the 3rd boat or have been for a long time, I believe you will find some value in reading the rest of the article. 
+Over the years, I have discovered there a few things one can do to address this. Part of this material is from interviews that aced and other parts are from interviews that I failed miserably. But most of it is from interviews from which I came out absolutely convinced that the job is mine for the taking only to learn a week later that will never be the case. If you are in the 3rd boat or have been for a long time, it might make you feel that maybe you just don't have the charm or the employer is not capable of appreciating your worth. I believe you will find some value in reading the rest of the article. 
 
 I have divided this article into 4 broad aspects:
 
@@ -22,15 +22,15 @@ _DISCLAIMER: I am not a recruiter or an employer. Never been. ._
 
 ## To pay full attention to each question. 
 
-EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. And if necessary, clarify
+EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. This is particularly difficult to identify in a [conversational style interview](https://www.randstad.ca/employers/workplace-insights/talent-management/conversational-interviewing-the-best-way-to-conduct-job-interviews/) where it may be difficult to identify if there is a question there. There is definitely a question. More conversational it is, more difficult it is to identify that question and even answer them, but there is definitely a question. You have just not been paying attention. And you had to have been paying enough attention to know that the context of the question might have changed from the previous quesiton (read below on `Don't Assume` to learn more about this. If need be, clarify!
 
 ## To go deep into your skills when it comes to it
 
-In depth might mean technical knowledge in a technical interview, intuitive knowledge in a behavioral question. This will depend on the background / expertise of the interviewrs in the room (read below for more about how to address multiple interviewers). This is especially important in a [conversational style interview](https://www.randstad.ca/employers/workplace-insights/talent-management/conversational-interviewing-the-best-way-to-conduct-job-interviews/) where it is easy to lose sight of the significance of demonstrating your expertise. 
+In depth might mean technical knowledge in a technical interview, intuitive knowledge in a behavioral question. This will depend on the background / expertise of the interviewrs in the room (read below for more about how to address multiple interviewers). The modern movement when it comes to expertise is to be a [T-Shaped Person](find-article-here). 
 
 ## You hear yourself speak and check your own body language
 
-Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said'. 
+Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said' (instead use 'I mentioned while talking about [something you said earlier]'). Are you using obscene language or something a bit too informal?  
 
 ## Both interviewers are happy
 
@@ -48,7 +48,7 @@ Let's be honest here! Have you looked at anybody's CV for more than a couple min
 
 ## Every question has the same context
 
-Consider a situation where you have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. It's good to avoid [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) onto it for every other question. Do not assume that the context from the previous questions (even the ones you have set up yourself) will carry forward. It opens up a more wholesome way of thinking about each question. This is because each question is more than likely to have their own premise and context. 
+Consider a situation where you have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. It's good to avoid [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) onto it for every other question. Do not assume that the context from the previous questions (even the ones you have set up yourself) will carry forward. It opens up a more wholesome way of thinking about each question. This is because each question is more than likely to have their own premise and context. If it goes well for you, you will be able to capitalize on the new context and share a new skill / experience you have not had the change to talk about. 
 		
 ## The interview is about them answering your questions 
 		
