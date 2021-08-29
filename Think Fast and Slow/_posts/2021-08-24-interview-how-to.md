@@ -2,7 +2,7 @@
 title: How to prepare for a tech interview
 date: 2021-08-24 3:18:03 +1200
 tags: [work, lessons]
-published: true
+published: false
 ---
 
 This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they should pick you instead of them.
@@ -30,17 +30,17 @@ In depth might mean technical knowledge in a technical interview, intuitive know
 
 ## You hear yourself speak and check your own body language
 
-Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said' (instead use 'I mentioned while talking about [something you said earlier]'). Are you using obscene language or something a bit too informal?  
+Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said' (instead use 'I mentioned while talking about [something you said earlier]'). Are you using obscene language or something a bit too informal? Professionalism may sometime seem too mundane and boring but lack of it is extremely risky. It is easy to lose sight of it especially once you have built some rapport with one of the interviewers. You may feel you have demonstrated nuance in your character. But there are other people in the room and also, other people you will be working with should you get hired. There is no other attitude you can hold throughout an entire interview, e.g. humorous, confidence or even charming. The cost of losing professionalism is extremely high.
 
-## Both interviewers are happy
+## Every interviewers is happy
 
-In a technical interview there is usually more than 1. A useful heuristic is to 
+There is usually more than 1. A useful heuristic is to 
 
 # Don't Assume 
 
 ## You already know the role 
 
-This is not to say you should not talk about what value you can bring to the role, especially when asked. But not before you actually learn what it is you can bring. The organisation has its own tech stack, policies, visions as well as limitations. the vision of the role or what you can bring to the role. The interviewer(s) are trying to find out if you are fit for the role. 
+The organisation has its own tech stack, policies, visions as well as limitations. the vision of the role or what you can bring to the role. The interviewer(s) are trying to find out if you are fit for the role. They will try to achieve that by explicitly asking you a specific set of questions or they will try to achieve that by picking up content of your response to see if it meets their selection criteria. This is not to say you should not talk about what value you can bring to the role, especially when asked. But not before you actually learn what it is you can bring. 
 
 ## They have figured out your CV 
 
@@ -58,7 +58,7 @@ Of course, you want to learn more about the organisation. Curiosity about the or
 
 Going into an interview with a blank slate will provide you with a sense of unfounded confidence. Coming out of the interview with the same blank slate
 		
-## How long the interview is going to be
+## The duration and format of the interview
 
 ## What the DELIVERABLES / would be DELIVERABLES are 
 
@@ -69,6 +69,10 @@ Going into an interview with a blank slate will provide you with a sense of unfo
 ## Interviewers assumes you are well versed in your skills until they find out you are not
 		
 Once the CV screening is done, you are already past the stage where you establish the value of your skills. Now you are in the interview to communicate how proficient you are at those skills. So it is important for an interviewer to probe more into aspects about yourself that may be too good to be true. Remember, they are not coming at you from a position of mistrust or wanting to catch you on inconsistencies. Although, if you do not handle this situation well, that ends up being the case. If handled well however, they will go to bat for you. 
+
+## You may not get real time feedback
+
+And that's fine. That's why at least one of them has a notebook or questionaire in from of them which they will refer to when the interview is over. Once you feel you have provided a satisfactory answer, wrap up and close it. 
 
 ## A question may be a larva question
 
