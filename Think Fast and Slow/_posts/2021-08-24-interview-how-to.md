@@ -5,22 +5,24 @@ tags: [work, lessons]
 published: false
 ---
 
-This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they should pick you instead of them.
+This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they ought to pick you instead of them.
 
 Over the years, I have discovered there a few things one can do to address this. Part of this material is from interviews that aced and other parts are from interviews that I failed miserably. But most of it is from interviews from which I came out absolutely convinced that the job is mine for the taking only to learn a week later that will never be the case. If you are in the 3rd boat or have been for a long time, it might make you feel that maybe you just don't have the charm or the employer is not capable of appreciating your worth. I believe you will find some value in reading the rest of the article. 
 
 I have divided this article into 4 broad aspects:
 
-1. Make Sure - things you should aim to achive during the interview
-2. Don't Assume - things you might consider as given but are actually not
-3. Clarify - things you should actively seek to learn about before and during
-4. Bear in mind - things that are generally understood you ought to know about 
+### 1. Make Sure - aim to achive these during the interview
+### 2. Don't Assume - do not consider these as given 
+### 3. Clarify - actively seek to learn about these before and during
+### 4. Bear in mind - things that are generally understood you ought to know about 
 
 _DISCLAIMER: I am not a recruiter or an employer. Never been. ._
 
 # Make Sure 
 
-## To pay full attention to each question. 
+Like in a date, you might do/say something(s) that make the other person not like you. Easy advice for me would be to tell you 'make sure they like you'. But we both know, it is neither useful nor actionable advice. The ones below are:
+
+## You pay full attention to each question. 
 
 EVERY - SINGLE - WORD. There are very few open ended questions in an interview so it is always possible to narrow down the scope of the answer. 'Tell us a bit about yourself', in the beginning of many interviews is as open as it gets and even this one is not necessarily a license to speak at length about your captaincy for your high school basketball team 10 years ago (unless you are applying for a basketball/sports analytics company). Almost every other question is more specific. 'Tell us about a time when you made a mistake on the job'. This is particularly difficult to identify in a [conversational style interview](https://www.randstad.ca/employers/workplace-insights/talent-management/conversational-interviewing-the-best-way-to-conduct-job-interviews/) where it may be difficult to identify if there is a question there. There is definitely a question. More conversational it is, more difficult it is to identify that question and even answer them, but there is definitely a question. You have just not been paying attention. And you had to have been paying enough attention to know that the context of the question might have changed from the previous quesiton (read below on `Don't Assume` to learn more about this. If need be, clarify!
 
@@ -30,9 +32,13 @@ In depth might mean technical knowledge in a technical interview, intuitive know
 
 ## You hear yourself speak and check your own body language
 
-Do you sound credible? Are you repeating yourself? Are you using terms such as 'like I said' (instead use 'I mentioned while talking about [something you said earlier]'). Are you using obscene language or something a bit too informal? Professionalism may sometime seem too mundane and boring but lack of it is extremely risky. It is easy to lose sight of it especially once you have built some rapport with one of the interviewers. You may feel you have demonstrated nuance in your character. But there are other people in the room and also, other people you will be working with should you get hired. There is no other attitude you can hold throughout an entire interview, e.g. humorous, confidence or even charming. The cost of losing professionalism is extremely high.
+Are you nagging about your current job? Is your confidence undersubstantiated? Are you explaining your weaknesses with [humble brags](https://youtu.be/QbSD4EtpVdY?t=776)? Are you repeating yourself? Are you using terms such as 'like I said' (instead use 'I mentioned while talking about [something you said earlier]'). Are you using obscene language or something a bit too informal? Are you using a lot of 'but'? Here is an article on why you Using the word 
 
-## Every interviewers is happy
+## You are being professional
+
+Professionalism may sometimes seem too mundane and boring but lack of it is extremely risky. It is easy to lose sight of it especially once you have built some rapport with one of the interviewers. You may feel you have demonstrated nuance in your character. But there are other people in the room and also, other people you will be working with should you get hired. There is no other attitude you can hold throughout an entire interview, e.g. humorous, confidence or even charming. The cost of losing professionalism is extremely high. If an interview goes horribly wrong and you come off as an unlikable person, professionalism will save you some face. 
+
+## You are not ignore other interviewers
 
 There is usually more than 1. A useful heuristic is to 
 

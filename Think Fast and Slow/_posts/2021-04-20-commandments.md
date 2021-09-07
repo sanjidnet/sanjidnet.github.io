@@ -2,6 +2,7 @@
 title: 10 Crack Commandments
 date: 2020-08-20 3:18:03 +1200
 tags: [lifestyle, lessons]
+published: false
 ---
 
 - Never let no one know how much dough you hold.
