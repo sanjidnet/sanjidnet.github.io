@@ -2,7 +2,7 @@
 title: How to prepare for a tech interview
 date: 2021-08-24 3:18:03 +1200
 tags: [work, lessons]
-published: true
+published: TRUE
 ---
 
 This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they ought to pick you instead of them.
