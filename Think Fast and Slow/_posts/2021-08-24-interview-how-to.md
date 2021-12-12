@@ -2,7 +2,7 @@
 title: How to prepare for a tech interview
 date: 2021-08-24 3:18:03 +1200
 tags: [work, lessons]
-published: TRUE
+published: true
 ---
 
 This is it! You have crossed the CV screening or the quick phone screening. You are no longer part of the 50 interested applicants most of who uploaded an outdated CV and a generic cover letter. You are part of the 5 or 10 who might have a programming challenge or might even be hired if you succeed this step. Problem is there exist a few other people who also believe very strongly they deserve the role. Another problem is that you have a set period of time to convince your potential employers that they ought to pick you instead of them.
@@ -28,7 +28,7 @@ EVERY - SINGLE - WORD. There are very few open ended questions in an interview s
 
 ## To go deep into your skills when it comes to it
 
-In depth might mean technical knowledge in a technical interview, intuitive knowledge in a behavioral question. This will depend on the background / expertise of the interviewrs in the room (read below for more about how to address multiple interviewers). The modern movement when it comes to expertise is to be a [T-Shaped Person](find-article-here). 
+In depth might mean technical knowledge in a technical interview, intuitive knowledge in a behavioral question. This will depend on the background / expertise of the interviewrs in the room (read below for more about how to address multiple interviewers). The modern movement when it comes to expertise is to be a [T-Shaped Person](https://en.wikipedia.org/wiki/T-shaped_skills). 
 
 ## You hear yourself speak and check your own body language
 
