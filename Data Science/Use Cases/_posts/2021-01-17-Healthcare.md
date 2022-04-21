@@ -34,3 +34,16 @@ tags: [datascience, knowledge]
 * Readmission risk
     * Predict risk of re-admittance based on patient attributes, medical history, diagnose & treatment
 
+* CRM & utilization optimization
+
+* Claims coding
+
+* Forumlary determination and pricing
+
+* How do I get you to use my card for auto-pay? Paypal? etc. Unsolved.
+
+* Finance
+    * Risk analysis
+    * Automating Excel stuff/summary reports
+
+
