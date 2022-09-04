@@ -17,34 +17,35 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Chirpy                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Programming | Seminal Knowledge | Ikigai # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  I enjoy programming, sports and music. 
+  This blog is an attempt to capture my skills, 
+  experience and/or rudimentary concepts 
+  as I keep learning about them...
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+# fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
+url: 'https://sanjidnet.github.io'
 
 author: Sanjid Rahman
 
 github:
-  username: sanjid25                    # change to your github username
+  username: sanjidnet                    # change to your github username
 
 twitter:
-  username: sanjid25
+  username: sanjidnet
 
 social:
   name: Sanjid Rahman                   # it will shows as the copyright owner in Footer
   email: contact@sanjid.net             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/sanjid25      # change to your twitter homepage
-    - https://github.com/sanjid25       # change to your github homepage
+    - https://twitter.com/sanjidnet      # change to your twitter homepage
+    - https://github.com/sanjidnet       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sanjidnet
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
