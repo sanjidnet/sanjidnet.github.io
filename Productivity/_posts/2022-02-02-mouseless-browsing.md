@@ -25,5 +25,7 @@ SUMMARY:
    - Customizability is next level. Using python or bash scripting
 
 Bonus
-Take it to the command line interface altogether using [W3M](https://wiki.debian.org/w3m)
+Take it to the command line interface altogether using [W3M](https://wiki.debian.org/w3m). 
+Cons: 
+    - does not support javascript
 
