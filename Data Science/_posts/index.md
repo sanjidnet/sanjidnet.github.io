@@ -1,5 +1,5 @@
 ---
-title: VIM Plugins
+title: index
 date: 2022-02-04 3:22:03 +1200
 tags: [lifestyle, lessons]
 published: true
