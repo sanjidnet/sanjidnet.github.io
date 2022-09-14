@@ -1,0 +1,593 @@
+<h2 id="background">Background</h2>
+
+<p>For each type of analysis think about:</p>
+
+<ul>
+  <li>What problem does it solve, and for whom?</li>
+  <li>How is it being solved today?</li>
+  <li>How can it beneficially affect business?</li>
+  <li>What are the data inputs and where do they come from?</li>
+  <li>What are the outputs and how are they consumed- (online algorithm, a static report, etc)</li>
+  <li>Is this a revenue leakage (“saves us money”) or a revenue growth (“makes us money”) problem?</li>
+</ul>
+
+<h3 id="marketing">Marketing</h3>
+
+<ul>
+  <li>Predicting Lifetime Value (LTV)
+    <ul>
+      <li>what for: if you can predict the characteristics of high LTV customers, this supports customer segmentation, identifies upsell opportunties and supports other marketing initiatives</li>
+      <li>usage: can be both an online algorithm and a static report showing the characteristics of high LTV customers</li>
+    </ul>
+  </li>
+  <li>Wallet share estimation
+    <ul>
+      <li>working out the proportion of a customer’s spend in a category accrues to a company allows that company to identify upsell and cross-sell opportunities</li>
+      <li>usage: can be both an online algorithm and a static report showing the characteristics of low wallet share customers</li>
+    </ul>
+  </li>
+  <li>Churn
+    <ul>
+      <li>working out the characteristics of churners allows a company to product adjustments and an online algorithm allows them to reach out to churners</li>
+      <li>usage: can be both an online algorithm and a statistic report showing the characteristics of likely churners</li>
+    </ul>
+  </li>
+  <li>Customer segmentation
+    <ul>
+      <li>If you can understand qualitatively different customer groups, then we can give them different treatments (perhaps even by different groups in the company). Answers questions like: what makes people buy, stop buying etc</li>
+      <li>usage: static report</li>
+    </ul>
+  </li>
+  <li>Product mix
+    <ul>
+      <li>What mix of products offers the lowest churn? eg. Giving a combined policy discount for home + auto = low churn</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Cross selling/Recommendation algorithms/
+    <ul>
+      <li>Given a customer’s past browsing history, purchase history and other characteristics, what are they likely to want to purchase in the future?</li>
+      <li>usage: online algorithm</li>
+    </ul>
+  </li>
+  <li>Up selling
+    <ul>
+      <li>Given a customer’s characteristics, what is the likelihood that they’ll upgrade in the future?</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Channel optimization
+    <ul>
+      <li>what is the optimal way to reach a customer with certain characteristics?</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Discount targeting
+    <ul>
+      <li>What is the probability of inducing the desired behavior with a discount</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Reactivation likelihood
+    <ul>
+      <li>What is the reactivation likelihood for a given customer</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Adwords optimization and ad buying
+    <ul>
+      <li>calculating the right price for different keywords/ad slots</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="sales">Sales</h3>
+
+<ul>
+  <li>Lead prioritization
+    <ul>
+      <li>What is a given lead’s likelihood of closing</li>
+      <li>revenue impact: supports growth</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+  <li>Demand forecasting</li>
+</ul>
+
+<h3 id="logistics">Logistics</h3>
+
+<ul>
+  <li>Demand forecasting
+    <ul>
+      <li>How many of what thing do you need and where will we need them? (Enables lean inventory and prevents out of stock situations.)</li>
+      <li>revenue impact: supports growth and militates against revenue leakage</li>
+      <li>usage: online algorithm and static report</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="risk">Risk</h3>
+
+<ul>
+  <li>
+    <p>Credit risk</p>
+  </li>
+  <li>Treasury or currency risk
+    <ul>
+      <li>How much capital do we need on hand to meet these requirements?</li>
+    </ul>
+  </li>
+  <li>Fraud detection
+    <ul>
+      <li>predicting whether or not a transaction should be blocked because it involves some kind of fraud (eg credit card fraud)</li>
+    </ul>
+  </li>
+  <li>Accounts Payable Recovery
+    <ul>
+      <li>Predicting the probably a liability can be recovered given the characteristics of the borrower and the loan</li>
+    </ul>
+  </li>
+  <li>Anti-money laundering
+    <ul>
+      <li>Using machine learning and fuzzy matching to detect transactions that contradict AML legislation (such as the OFAC list)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="customer-support">Customer support</h3>
+
+<ul>
+  <li>Call centers
+    <ul>
+      <li>Call routing (ie determining wait times) based on caller id history, time of day, call volumes, products owned, churn risk, LTV, etc.</li>
+    </ul>
+  </li>
+  <li>Call center message optimization
+    <ul>
+      <li>Putting the right data on the operator’s screen</li>
+    </ul>
+  </li>
+  <li>Call center volume forecasting
+    <ul>
+      <li>predicting call volume for the purposes of staff rostering</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="human-resources">Human Resources</h3>
+
+<ul>
+  <li>Resume screening
+    <ul>
+      <li>scores resumes based on the outcomes of past job interviews and hires</li>
+    </ul>
+  </li>
+  <li>Employee churn
+    <ul>
+      <li>predicts which employees are most likely to leave</li>
+    </ul>
+  </li>
+  <li>Training recommendation
+    <ul>
+      <li>recommends specific training based of performance review data</li>
+    </ul>
+  </li>
+  <li>Talent management
+    <ul>
+      <li>looking at objective measures of employee success</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="healthcare">Healthcare</h3>
+
+<ul>
+  <li>Claims review prioritization
+    <ul>
+      <li>payers picking which claims should be reviewed by manual auditors</li>
+    </ul>
+  </li>
+  <li>Medicare/medicaid fraud
+    <ul>
+      <li>Tackled at the claims processors, EDS is the biggest &amp; uses proprietary tech</li>
+    </ul>
+  </li>
+  <li>Medical resources allocation
+    <ul>
+      <li>Hospital operations management</li>
+      <li>Optimize/predict operating theatre &amp; bed occupancy based on initial patient visits</li>
+    </ul>
+  </li>
+  <li>Alerting and diagnostics from real-time patient data
+    <ul>
+      <li>Embedded devices (productized algos)</li>
+      <li>Exogenous data from devices to create diagnostic reports for doctors</li>
+    </ul>
+  </li>
+  <li>Prescription compliance
+    <ul>
+      <li>Predicting who won’t comply with their prescriptions</li>
+    </ul>
+  </li>
+  <li>Physician attrition
+    <ul>
+      <li>Hospitals want to retain Drs who have admitting privileges in multiple hospitals</li>
+    </ul>
+  </li>
+  <li>Survival analysis
+    <ul>
+      <li>Analyse survival statistics for different patient attributes (age, blood type, gender, etc) and treatments</li>
+    </ul>
+  </li>
+  <li>Medication (dosage) effectiveness
+    <ul>
+      <li>Analyse effects of admitting different types and dosage of medication for a disease</li>
+    </ul>
+  </li>
+  <li>Readmission risk
+    <ul>
+      <li>Predict risk of re-admittance based on patient attributes, medical history, diagnose &amp; treatment</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="consumer-financial">Consumer Financial</h3>
+
+<ul>
+  <li>Credit card fraud
+    <ul>
+      <li>Banks need to prevent, and vendors need to prevent</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="retail-fmcg---fast-moving-consumer-goods">Retail (FMCG - Fast-moving consumer goods)</h3>
+
+<ul>
+  <li>Pricing
+    <ul>
+      <li>Optimize per time period, per item, per store</li>
+      <li>Was dominated by Retek, but got purchased by Oracle in 2005. Now Oracle Retail.</li>
+      <li>JDA is also a player (supply chain software)</li>
+    </ul>
+  </li>
+  <li>Location of new stores
+    <ul>
+      <li>Pioneerd by Tesco</li>
+      <li>Dominated by Buxton</li>
+      <li>Site Selection in the Restaurant Industry is Widely Performed via Pitney Bowes AnySite</li>
+    </ul>
+  </li>
+  <li>Product layout in stores
+    <ul>
+      <li>This is called “plan-o-gramming”</li>
+    </ul>
+  </li>
+  <li>Merchandizing
+    <ul>
+      <li>when to start stocking &amp; discontinuing product lines</li>
+    </ul>
+  </li>
+  <li>Inventory Management (how many units)
+    <ul>
+      <li>In particular, perishable goods</li>
+    </ul>
+  </li>
+  <li>Shrinkage analytics
+    <ul>
+      <li>Theft analytics/prevention (http://www.internetretailer.com/2004/12/17/retailers-cutting-inventory-shrink-with-spss-predictive-analytic)</li>
+    </ul>
+  </li>
+  <li>Warranty Analytics
+    <ul>
+      <li>Rates of failure for different components
+        <ul>
+          <li>And what are the drivers or parts?</li>
+        </ul>
+      </li>
+      <li>What types of customers buying what types of products are likely to actually redeem a warranty?</li>
+    </ul>
+  </li>
+  <li>
+    <p>Market Basket Analysis</p>
+  </li>
+  <li>
+    <p>Cannibalization Analysis</p>
+  </li>
+  <li>Next Best Offer Analysis
+    <ul>
+      <li>http://www.analyticbridge.com/xn/detail/2004291:Comment:219197</li>
+    </ul>
+  </li>
+  <li>In store traffic patterns (fairly virgin territory)</li>
+</ul>
+
+<h3 id="insurance">Insurance</h3>
+
+<ul>
+  <li>Claims prediction
+    <ul>
+      <li>Might have telemetry data</li>
+    </ul>
+  </li>
+  <li>
+    <p>Claims handling (accept/deny/audit), managing repairer network (auto body, doctors)</p>
+  </li>
+  <li>
+    <p>Price sensitivity</p>
+  </li>
+  <li>
+    <p>Investments</p>
+  </li>
+  <li>
+    <p>Agent &amp; branch performance</p>
+  </li>
+  <li>DM, product mix</li>
+</ul>
+
+<h3 id="construction">Construction</h3>
+
+<ul>
+  <li>Contractor performance
+    <ul>
+      <li>Identifying contractors who are regularly involved in poor performing products</li>
+    </ul>
+  </li>
+  <li>Design issue prediction
+    <ul>
+      <li>Predicting that a construction project is likely to have issues as early as possible</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="life-sciences">Life Sciences</h3>
+
+<ul>
+  <li>
+    <p>Identifying biomarkers for boxed warnings on marketed products</p>
+  </li>
+  <li>
+    <p>Drug/chemical discovery &amp; analysis</p>
+  </li>
+  <li>
+    <p>Crunching study results</p>
+  </li>
+  <li>
+    <p>Identifying negative responses (monitor social networks for early problems with drugs)</p>
+  </li>
+  <li>Diagnostic test development
+    <ul>
+      <li>Hardware devices</li>
+      <li>Software</li>
+    </ul>
+  </li>
+  <li>
+    <p>Diagnostic targeting (CRM)</p>
+  </li>
+  <li>
+    <p>Predicting drug demand in different geographies for different products</p>
+  </li>
+  <li>
+    <p>Predicting prescription adherence with different approaches to reminding patients</p>
+  </li>
+  <li>
+    <p>Putative safety signals</p>
+  </li>
+  <li>
+    <p>Social media marketing on competitors, patient perceptions, KOL feedback</p>
+  </li>
+  <li>
+    <p>Image analysis or GCMS analysis in a high throughput manner</p>
+  </li>
+  <li>
+    <p>Analysis of clinical outcomes to adapt clinical trial design</p>
+  </li>
+  <li>
+    <p>COGS optimization</p>
+  </li>
+  <li>Leveraging molecule database with metabolic stability data to elucidate new stable structures</li>
+</ul>
+
+<h3 id="hospitality-service">Hospitality Service</h3>
+
+<ul>
+  <li>
+    <p>Inventory management/dynamic pricing</p>
+  </li>
+  <li>
+    <p>Promos/upgrades/offers</p>
+  </li>
+  <li>
+    <p>Table management &amp; reservations</p>
+  </li>
+  <li>
+    <p>Workforce management (also applies to lots of verticals)</p>
+  </li>
+</ul>
+
+<h3 id="electrical-grid-distribution">Electrical grid distribution</h3>
+
+<ul>
+  <li>
+    <p>Keep AC frequency as constant as possible</p>
+  </li>
+  <li>
+    <p>Seems like a very “online” algorithm</p>
+  </li>
+</ul>
+
+<h3 id="manufacturing">Manufacturing</h3>
+
+<ul>
+  <li>
+    <p>Sensor data to look at failures</p>
+  </li>
+  <li>Quality management
+    <ul>
+      <li>Identifying out-of-bounds manufacturing
+        <ul>
+          <li>Visual inspection/computer vision</li>
+        </ul>
+      </li>
+      <li>Optimal run speeds</li>
+    </ul>
+  </li>
+  <li>
+    <p>Demand forecasting/inventory management</p>
+  </li>
+  <li>Warranty/pricing</li>
+</ul>
+
+<h3 id="travel">Travel</h3>
+
+<ul>
+  <li>
+    <p>Aircraft scheduling</p>
+  </li>
+  <li>
+    <p>Seat mgmt, gate mgmt</p>
+  </li>
+  <li>
+    <p>Air crew scheduling</p>
+  </li>
+  <li>
+    <p>Dynamic pricing</p>
+  </li>
+  <li>
+    <p>Customer complain resolution (give points in exchange)</p>
+  </li>
+  <li>
+    <p>Call center stuff</p>
+  </li>
+  <li>
+    <p>Maintenance optimization</p>
+  </li>
+  <li>
+    <p>Tourism forecasting</p>
+  </li>
+</ul>
+
+<h3 id="agriculture">Agriculture</h3>
+
+<ul>
+  <li>Yield management (taking sensor data on soil quality - common in newer John Deere et al truck models and determining what seed varieties, seed spacing to use etc</li>
+</ul>
+
+<h3 id="mall-operators">Mall Operators</h3>
+
+<ul>
+  <li>
+    <p>Predicting tenants capacity to pay based on their sales figures, their industry</p>
+  </li>
+  <li>
+    <p>Predicting the best tenant for an open vacancy to maximise over all sales at a mall</p>
+  </li>
+</ul>
+
+<h3 id="education">Education</h3>
+
+<ul>
+  <li>Automated essay scoring</li>
+</ul>
+
+<h3 id="utilities">Utilities</h3>
+
+<ul>
+  <li>
+    <p>Optimise Distribution Network Cost Effectiveness (balance Capital 7 Operating Expenditure)</p>
+  </li>
+  <li>
+    <p>Predict Commodity Requirements</p>
+  </li>
+</ul>
+
+<h3 id="other">Other</h3>
+
+<ul>
+  <li>
+    <p>Sentiment analysis</p>
+  </li>
+  <li>
+    <p>Loyalty programs</p>
+  </li>
+  <li>Sensor data
+    <ul>
+      <li>Alerting</li>
+      <li>What’s going to fail?</li>
+    </ul>
+  </li>
+  <li>
+    <p>De duplication</p>
+  </li>
+  <li>Procurement</li>
+</ul>
+
+<h3 id="procurement">Procurement</h3>
+
+<ul>
+  <li>Negotiation &amp; vendor selection
+    <ul>
+      <li>Are we buying from the best producer</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="marketing-1">Marketing</h3>
+
+<ul>
+  <li>Direct Marketing
+    <ul>
+      <li>Response rates</li>
+      <li>Segmentations for mailings</li>
+      <li>Reactivation likelihood</li>
+      <li>RFM</li>
+      <li>Discount targeting</li>
+      <li>FinServ</li>
+      <li>Phone marketing
+        <ul>
+          <li>Generally as a follow-up to a DM or a churn predictor</li>
+        </ul>
+      </li>
+      <li>Email Marketing</li>
+    </ul>
+  </li>
+  <li>Offline
+    <ul>
+      <li>Call to action w/ unique promotion</li>
+      <li>Why are people responding- How do I adjust my buy (where, when, how)?</li>
+      <li>“I’m sure we are wasting half our money here, but the problem is we don’t know which ad”</li>
+    </ul>
+  </li>
+  <li>Media Mix Optimization
+    <ul>
+      <li>Kantar Group and Nielson are dominant</li>
+      <li>Hard part of this is getting to the data (good samples &amp; response vars)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="healthcare-1">Healthcare</h3>
+
+<ul>
+  <li>
+    <p>CRM &amp; utilization optimization</p>
+  </li>
+  <li>
+    <p>Claims coding</p>
+  </li>
+  <li>
+    <p>Forumlary determination and pricing</p>
+  </li>
+  <li>
+    <p>How do I get you to use my card for auto-pay? Paypal? etc. Unsolved.</p>
+  </li>
+  <li>
+    <p>Finance</p>
+    <ul>
+      <li>Risk analysis</li>
+      <li>Automating Excel stuff/summary reports</li>
+    </ul>
+  </li>
+</ul>
+
+<p>####</p>
