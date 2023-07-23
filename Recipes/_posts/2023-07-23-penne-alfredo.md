@@ -10,7 +10,7 @@ published: true
 # Ingredients:
 - 500g penne pasta 
 - 500g peeled frozen shrimp
-- 500g alfredo sauce like screenshot
+- 500g alfredo sauce like screenshot below[^alfredo]
 - 250g white button mushrooms
 - 100ml fresh cream
 - 50g of Parmesan cheese
@@ -56,3 +56,6 @@ published: true
 - Same recipe applies for chicken (thighs especially are delicious). Chicken does not shrink like shrimp so only half as much covers it. 
     It takes more time to cook though and may need dicing thus making it a more taxing recipe.
 
+[^alfredo]:
+Available at Countdown / New Worlds
+![Alfredo Sauce](/assets/img/sample/alfredo_sauce.png){: width="972" height="589" .w-75 .normal}
