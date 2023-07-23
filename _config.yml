@@ -18,7 +18,7 @@ timezone: Pacific/Auckland
 
 title: Sanjid Rahman                   # the main title
 
-tagline: It's your life. Make it large. # it will display as the sub-title
+tagline: . # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   I enjoy programming, sports and music.
