@@ -7,7 +7,7 @@ published: true
 ---
 
 
-# Ingredients:
+# Ingredients (4 large servings):
 - 500g penne pasta 
 - 500g peeled frozen shrimp
 - 500g alfredo sauce like screenshot below[^alfredo]
@@ -20,7 +20,7 @@ published: true
 - Little bitta garlic paste (nice to have for flavour)
 - Parsley (nice to have to garnish)
 
-# Cooking:
+# Method:
 1. Boil pasta in a pot on one of your stove tops. The pasta should in about 10 minutes and 
     we will be preparing the alfredo sauce simultaneously from step #1. 
     Stir and check the pasta pot especially towards the end. 
@@ -47,14 +47,13 @@ published: true
 11. Serve onto plates and/or storage container. Garnish with some more parmesan and parsley to make it look green, fresh and creamy at the same time.
 
 # Few things to note:
-- To prepare a smaller portion, just use half of every ingredient. That should make 2 large servings.
 - An easy alternative to the store bought alfredo sauce would be to:
     - use more fresh cream at step #8
     - add a table spoon of butter
     - use more parmesan at step #9
     - let the sauce simmer longer
     - these are the essential ingredients of alfredo sauce
-- Penne’s are pretty awesome because the alfredo sauce can go in the tubes and sit inside and the flavor settles nicely. 
+- Penne’s are pretty awesome because the alfredo sauce can go in the tubes and sit inside and the flavor can settle in nicely. 
     Makes the pasta taste nice over several days for storing in the fridge and microwaving. 
     Another popular choice to go with alfredo sauce is fettuccine. Fettuccine strands and a fork make for an awesome mop for clearing alfredo from a plate! 
 - Same recipe applies for chicken (thighs especially are delicious). Chicken does not shrink like shrimp so only half as much covers it. 
