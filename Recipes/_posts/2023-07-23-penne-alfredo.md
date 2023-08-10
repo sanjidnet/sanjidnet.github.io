@@ -21,8 +21,8 @@ published: true
 - Parsley (nice to have to garnish)
 
 # Method:
-1. Boil pasta in a pot on one of your stove tops. The pasta should in about 10 minutes and 
-    we will be preparing the alfredo sauce simultaneously from step #1. 
+1. Boil pasta in a pot on one of your stove tops. The pasta should be ready in about 10 minutes and 
+    we will be preparing the alfredo sauce simultaneously from step #2. 
     Stir and check the pasta pot especially towards the end. 
     Make sure it doesn’t get too soft because it will get added to warm alfredo sauce later.
     We will be grabbing a few pasta pieces towards the end to check when it’s ready. 
@@ -31,7 +31,7 @@ published: true
 2. While #1 is happening, heat up a non-stick fry pan on medium high on your other stove top. 
     Slice the onion and mushrooms (simultaneously, if we’re fast with knives or beforehand, if not).
 3. Add a bitta butter to the pan and then sliced onion. It should be hot enough for the onions to sizzle.
-    Add salt and pepper and let that cook for a minute to two. Basically onion shouldn’t burn but it should not smell raw either.
+    Add salt and pepper and let that cook for a minute or two. Basically onion shouldn’t burn but it should not smell raw either.
 4. Then add garlic paste (nice to have) and stir.
 5. Add the shrimp. Adding shrimp makes it a bit moist. The mushrooms (we add later) will soak up some of it. 
     Stir for a couple of minutes. Basically shrimp should be on the verge of losing its pinkness and 
