@@ -15,13 +15,14 @@ Tools to extract data from a source to a landing zone / data warehouse
 - Singer 
 
 ## Closed source 
-- Fivetan 
+- Fivetran 
 - Stitch 
 - Azure Data Factory
 - AWS Glue
 
 ## Streaming
 - Apache Kafka
+- beam
 - AWS Kinesis 
 
 # Warehousing
@@ -71,6 +72,3 @@ Tools to extract data from a source to a landing zone / data warehouse
   cherry :active, c, after b a, 1d
 ```
 
-```mermaid
- mindmap
-```
