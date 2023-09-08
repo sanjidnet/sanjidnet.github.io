@@ -1,6 +1,6 @@
 ---
 title: Data Engineering Techstack
-date: 2023-02-04 18:22:22 +1200
+date: 2023-06-04 18:22:22 +1200
 mermaid: true
 published: true
 ---
