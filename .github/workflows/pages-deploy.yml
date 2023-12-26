@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - master
+      - merge_upstream
     paths-ignore:
       - .gitignore
       - README.md
