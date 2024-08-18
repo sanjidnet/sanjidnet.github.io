@@ -105,11 +105,11 @@ Again, [don't assume you already know the role](#dont-assume-you-already-know-th
 
 This is because the alternative is worse. If the issue is imporant, there will be follow up questions. 
 
-## Tips
+## Bonus Tips
 
-### Make sure you are not lacking substance or depth 
-### Make sure you are not too confident for what you were providing 
-### Interview notes should never be about: what would be the answer to potential questions. 
+- Make sure you are not lacking substance or depth 
+- Make sure you are not too confident for what you were providing 
+- Interview notes should never be about: what would be the answer to potential questions
 
 It should be about coming up with many many stories so that you can fit them in potential quesitons.
 
