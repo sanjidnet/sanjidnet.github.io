@@ -2,6 +2,8 @@
 title: About me
 author: Sanjid Rahman
 date: 2023-01-05 20:55:00 +0800
+icon: fas fa-info-circle
+order: 1
 categories: [Blogging]
 tags: [getting started]
 pin: true
