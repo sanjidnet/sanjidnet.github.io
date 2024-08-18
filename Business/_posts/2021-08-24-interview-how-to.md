@@ -42,7 +42,7 @@ There is usually more than 1. The other person could influence the outcome of th
 
 ## Don't Assume 
 
-### Don't assume you already know the role 
+### Don't assume you already know the role
 
 The organisation has its own tech stack, policies, visions as well as limitations. the vision of the role or what you can bring to the role. The interviewer(s) are trying to find out if you are fit for the role. They will try to achieve that by explicitly asking you a specific set of questions or they will try to achieve that by picking up content of your response to see if it meets their selection criteria. This is not to say you should not talk about what value you can bring to the role, especially when asked. But not before you actually learn what it is you can bring. 
 
@@ -54,7 +54,7 @@ Let's be honest here! Have you looked at anybody's CV for more than a couple min
 
 Consider a situation where you have done a good job of answering the 'Tell us a bit about yourself' question. Perhaps you had also catered the response to the requirements of the role in question. It's good to avoid [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) onto it for every other question. Do not assume that the context from the previous questions (even the ones you have set up yourself) will carry forward. It opens up a more wholesome way of thinking about each question. This is because each question is more than likely to have their own premise and context. If it goes well for you, you will be able to capitalize on the new context and share a new skill / experience you have not had the change to talk about. 
 		
-### The interview is about them answering your questions 
+### Don't assume the interview is about them answering your questions 
 		
 Of course, you want to learn more about the organisation. This ensure that the organization's culture fits well with your values and vice versa. Curiosity about the organisation is also one of the best ways to signal you are genuinely interested in the role. However, asking too many questions might take you to unsolicited problem solving mode, probing about issues that are just not relevant to the role right now. It's important not to make your curiosity the point of prolonged discussion about the interview. You will limit the duration you have to showcase your own skill and values.  
 	
@@ -93,15 +93,19 @@ This is particularly important for interviewees who have a tendency to come up w
 
 You mean well but by doing this, you are depriving yourself the opportunity to answer the second question and demonstrating your skills
 		
-### Bear in mind, what an ideal data analyst, engineer or scientist role should do 
+### Bear in mind, what an ideal employee holding this role should bring to the table
 		
-This field is diverse and requirements that fulfill the roles are changing everyday - and are different across organisations. It is still the interviewee's responsibility to demonstrate how a data expert can be useful in an organisation.
+The IT field is diverse and requirements that fulfill each roles are changing everyday - and are different across organisations. It is still the interviewee's responsibility to demonstrate how an expert can be useful in an organisation. So when the situation demands, put yourself in a position where you can share industry knowledge and best practices associated with the role. A lot of roles in an organization are to bring about positive changes to the culture and (re)establishing best practices within the team / project. 
+
+However, there is a thin line between coming across as industry expert versus coming across as an opinionated individual who claims to solve all problems faced by the employer. Don't forget you will be joining a team that is probably trying their best. You do not want to come across as someone who will be stepping on the shoes of your co-workers. 
+
+Again, [don't assume you already know the role](#dont-assume-you-already-know-the-role).
 
 ### Bear in mind, there is nothing wrong with a confident 'I do not know the answer to that.'
 
 This is because the alternative is worse. If the issue is imporant, there will be follow up questions. 
 
-## Miscellaneous
+## Tips
 
 ### Make sure you are not lacking substance or depth 
 ### Make sure you are not too confident for what you were providing 
