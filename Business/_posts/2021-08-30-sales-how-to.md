@@ -2,7 +2,7 @@
 title: How to sell
 date: 2021-08-28 3:18:03 +1200
 tags: [lifestyle, lessons, strategy]
-published: false
+published: true
 ---
 
 There are few people who can’t live without your product. These are your customers. After that, it’s detective work 
